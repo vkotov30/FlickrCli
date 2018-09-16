@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrCli</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_alert">Alert</string>
+    <string name="title_account">Account</string>
+</resources>
