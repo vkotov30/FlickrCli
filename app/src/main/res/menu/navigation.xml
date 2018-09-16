@@ -26,4 +26,5 @@
         android:icon="@drawable/ic_photo_camera_black_24dp"
         android:title="@string/title_camera" />
 
+
 </menu>
